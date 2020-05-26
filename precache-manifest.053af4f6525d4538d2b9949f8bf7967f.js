@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a35ffa81187d62ae700b01c9f818a3f6",
+    "revision": "04f1234226d45dacaf91a607ddee1b68",
     "url": "/stoic-quotes/index.html"
   },
   {
-    "revision": "cb833fecfaf35104f42b",
-    "url": "/stoic-quotes/static/css/main.b03d004a.chunk.css"
+    "revision": "182d1a4fe871aa6a8a41",
+    "url": "/stoic-quotes/static/css/main.01a35820.chunk.css"
   },
   {
     "revision": "94f6c77c32987defafe7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stoic-quotes/static/js/2.a41b6b2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb833fecfaf35104f42b",
+    "revision": "182d1a4fe871aa6a8a41",
     "url": "/stoic-quotes/static/js/main.ef9c79a8.chunk.js"
   },
   {
