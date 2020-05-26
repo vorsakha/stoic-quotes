@@ -1,32 +1,23 @@
 {
   "files": {
     "main.css": "/stoic-quotes/static/css/main.b03d004a.chunk.css",
-    "main.js": "/stoic-quotes/static/js/main.78809a59.chunk.js",
-    "main.js.map": "/stoic-quotes/static/js/main.78809a59.chunk.js.map",
+    "main.js": "/stoic-quotes/static/js/main.ef9c79a8.chunk.js",
+    "main.js.map": "/stoic-quotes/static/js/main.ef9c79a8.chunk.js.map",
     "runtime-main.js": "/stoic-quotes/static/js/runtime-main.01e38a67.js",
     "runtime-main.js.map": "/stoic-quotes/static/js/runtime-main.01e38a67.js.map",
-    "static/js/2.e6a76d61.chunk.js": "/stoic-quotes/static/js/2.e6a76d61.chunk.js",
-    "static/js/2.e6a76d61.chunk.js.map": "/stoic-quotes/static/js/2.e6a76d61.chunk.js.map",
+    "static/js/2.a41b6b2d.chunk.js": "/stoic-quotes/static/js/2.a41b6b2d.chunk.js",
+    "static/js/2.a41b6b2d.chunk.js.map": "/stoic-quotes/static/js/2.a41b6b2d.chunk.js.map",
     "index.html": "/stoic-quotes/index.html",
-    "precache-manifest.f288c21adbf20e71563bc347381dec44.js": "/stoic-quotes/precache-manifest.f288c21adbf20e71563bc347381dec44.js",
+    "precache-manifest.32e77c70e1f830a219518cba952ce792.js": "/stoic-quotes/precache-manifest.32e77c70e1f830a219518cba952ce792.js",
     "service-worker.js": "/stoic-quotes/service-worker.js",
     "static/css/main.b03d004a.chunk.css.map": "/stoic-quotes/static/css/main.b03d004a.chunk.css.map",
-    "static/js/2.e6a76d61.chunk.js.LICENSE.txt": "/stoic-quotes/static/js/2.e6a76d61.chunk.js.LICENSE.txt",
-    "static/media/asian-1849173_1920.jpg": "/stoic-quotes/static/media/asian-1849173_1920.2f9b9e81.jpg",
-    "static/media/city-666094_1920.jpg": "/stoic-quotes/static/media/city-666094_1920.54ea85d0.jpg",
-    "static/media/cyberpunk-5135622_1920.jpg": "/stoic-quotes/static/media/cyberpunk-5135622_1920.fbc3e2af.jpg",
-    "static/media/harajuku-4618127_1920.jpg": "/stoic-quotes/static/media/harajuku-4618127_1920.57f96209.jpg",
-    "static/media/kamakura-4987734_1920.jpg": "/stoic-quotes/static/media/kamakura-4987734_1920.53781407.jpg",
-    "static/media/kobe-4975863_1920.jpg": "/stoic-quotes/static/media/kobe-4975863_1920.da5b4497.jpg",
-    "static/media/shibuya-2328029_1920.jpg": "/stoic-quotes/static/media/shibuya-2328029_1920.6b084712.jpg",
-    "static/media/street-5130030_1920.jpg": "/stoic-quotes/static/media/street-5130030_1920.f136290a.jpg",
-    "static/media/tokyo-4763976_1920.jpg": "/stoic-quotes/static/media/tokyo-4763976_1920.769910cf.jpg",
-    "static/media/tokyo-4807294_1920.jpg": "/stoic-quotes/static/media/tokyo-4807294_1920.ea3da794.jpg"
+    "static/js/2.a41b6b2d.chunk.js.LICENSE.txt": "/stoic-quotes/static/js/2.a41b6b2d.chunk.js.LICENSE.txt",
+    "static/media/kobe-4975863_1920.jpg": "/stoic-quotes/static/media/kobe-4975863_1920.da5b4497.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.01e38a67.js",
-    "static/js/2.e6a76d61.chunk.js",
+    "static/js/2.a41b6b2d.chunk.js",
     "static/css/main.b03d004a.chunk.css",
-    "static/js/main.78809a59.chunk.js"
+    "static/js/main.ef9c79a8.chunk.js"
   ]
 }
