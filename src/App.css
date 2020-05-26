@@ -25,15 +25,16 @@
     flex-direction: column;
     text-align: center;
     align-items: center;
+    font-size: 1.2em;
 }
 
 cite {
-    margin-bottom: 13px;
+    margin-bottom: 15px;
 }
 
 button {
     width: 100px;
-    padding: 7px;
+    padding: 12px;
     background-color: #333;
     color: tomato;
     border: none;
