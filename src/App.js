@@ -4,16 +4,15 @@ import Pulse from 'react-reveal/Pulse'
 
 import './App.css'
 
-import { imgs } from './Images/Images'
+import img from './Images/kobe-4975863_1920.jpg'
 
 function App() {
-  const [bgImage, setBg] = useState('')
   const [card, setCard] = useState('') 
 
   useEffect(() => {
     fetchQuote()
-    fetchImage()
-  }, [])
+    /* eslint-disable no-eval */
+  }, []) 
 
   const fetchQuote = () => {
     axios.get('https://api.stoic.rest/quote')
@@ -37,18 +36,12 @@ function App() {
       
   }
 
-  const fetchImage = () => {
-    const index = Math.floor(Math.random() * 10)
-    setBg(imgs[index])
-  }
-
   const handleOther = () => {
     fetchQuote()
-    fetchImage()
   }
 
   return (
-    <div className="image-container" style={{ backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(${bgImage})` }}>
+    <div className="image-container" style={{ backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(${img})` }}>
       {card}
     </div>
   );
